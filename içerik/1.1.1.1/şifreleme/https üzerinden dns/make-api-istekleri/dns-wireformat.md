@@ -1,4 +1,4 @@
----
+---application/dns-message
 pcx-content-type: reference
 title: DNS Wireformat
 meta:
